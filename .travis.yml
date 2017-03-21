@@ -1,6 +1,6 @@
 language: ruby
 rvm:
   - 2.2
-install: bundle install
+install: bundle install s3_website && bundle install
 script: bundle exec jekyll build
 after_success: bundle exec s3_website push
