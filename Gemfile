@@ -23,6 +23,9 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-sitemap"
    gem "jekyll-seo-tag"
+   gem 'bootstrap', '~> 4.0.0.alpha3'
+   gem 'autoprefixer-rails'
+   gem 'jekyll-assets'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
