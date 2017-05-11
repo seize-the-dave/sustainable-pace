@@ -1,8 +1,7 @@
 ---
-title: Agile Coaching
-permalink: services/coaching.html
+title: Coaching
+permalink: coaching
 layout: page
 ---
 
 # Agile Coaching
-
