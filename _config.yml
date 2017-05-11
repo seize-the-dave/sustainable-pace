@@ -33,12 +33,8 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
-  - bootstrap
-  - autoprefixer-rails
-  - jekyll-assets
-sass:
-    sass_dir: _sass
 exclude:
   - Gemfile
   - Gemfile.lock
