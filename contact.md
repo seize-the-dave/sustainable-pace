@@ -19,7 +19,7 @@ layout: page
     </div>
     <div class="form-group">
     <label for="msg">Your message</label>
-    <textarea name="msg" id="msg" class="form-control"/>
+    <textarea class="form-control" name="msg" id="msg" rows="3"></textarea>
     </div>
 
     <button type="submit" class="btn btn-primary">Send</button>
