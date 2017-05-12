@@ -4,7 +4,13 @@ permalink: coaching/
 layout: page
 ---
 
-We have done coaching at the following companies:
+## Our Approach to Coaching
+
+...
+
+## Past Clients
+
+Sustainable Pace have provided first-class coaching for the following UK companies:
 
 - Monitise
 - Sorenson Media
