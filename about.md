@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 <div class="row">
+<div class="col-sm-12">
 Sustainable Pace Ltd was formed in 2016 by David Grant, an Agile Coach in Cardiff, UK.
+</div>
 </div>
 <div class="row">
 <div class="col-sm-4">
