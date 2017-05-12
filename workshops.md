@@ -5,7 +5,6 @@ layout: page
 ---
 
 ## Available Workshops
-<div class="row">
 
 We offer workshops on the following topics:
 
@@ -16,17 +15,13 @@ We offer workshops on the following topics:
 - Running Retrospectives
 - Kanban System Design
 - Value Stream Mapping
-</div>
 
 ## Real, Professional Experience
 
-<div class="row">
-We have run workshops across Europe for private groups, as well as the following conferences:
+We have run our workshops across Europe for private organisations, as well as at the following conferences:
 
-- Agile Cymru
 - Agile Manchester
 - Agile Cambridge
+- Agile Cymru
 - SwanseaCon
 - Global Scrum Gathering (Berlin, Prague and Munich)
-
-</div>
