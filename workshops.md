@@ -6,20 +6,20 @@ layout: page
 
 ## Available Workshops
 <div class="row">
+
 We offer workshops on the following topics:
 
-- User Story Writing
 - Intro to Scrum
-- Running Retrospectives
-- Writing User Stories
-- Splitting User Stories
-- Story Mapping
-- Backlog Prioritisation using Cost of Delay and Kano Analysis
 - Intro to Kanban
-- Kanban Service Design
+- Working with User Stories, including Story Mapping and Splitting Techniques
+- Backlog Prioritisation Techniques, including Cost of Delay and Kano Analysis
+- Running Retrospectives
+- Kanban System Design
 - Value Stream Mapping
 </div>
+
 ## Real, Professional Experience
+
 <div class="row">
 We have run workshops at the following conferences:
 
