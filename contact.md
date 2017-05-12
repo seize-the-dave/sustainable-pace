@@ -22,5 +22,5 @@ layout: page
     <textarea name="msg" id="msg" class="form-control"/>
     </div>
 
-    <button type="submit" value="Send" class="btn btn-primary"/>
+    <button type="submit" class="btn btn-primary">Send</button>
 </form>
