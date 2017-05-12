@@ -21,15 +21,12 @@ We offer workshops on the following topics:
 ## Real, Professional Experience
 
 <div class="row">
-We have run workshops at the following conferences:
+We have run workshops across Europe for private groups, as well as the following conferences:
 
-- South Wales Agile Group
 - Agile Cymru
 - Agile Manchester
-- Agile Cymru
+- Agile Cambridge
+- SwanseaCon
+- Global Scrum Gathering (Berlin, Prague and Munich)
 
-<img src="/assets/swanseacon.png" width="450" height="75" class="img-responsive img-rounded"/>
-<img src="/assets/sgber.jpg" width="450" height="75" class="img-responsive img-rounded"/>
-<img src="/assets/sgprg.jpg" width="450" height="75" class="img-responsive img-rounded"/>
-<img src="/assets/sgmun.jpg" width="450" height="75" class="img-responsive img-rounded"/>
 </div>
