@@ -1,6 +1,6 @@
 ---
 title: Coaching
-permalink: coaching
+permalink: coaching/
 layout: page
 ---
 
