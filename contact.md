@@ -18,5 +18,5 @@ layout: page
     <input type="tel" name="tel" id="tel">
     </div>
 
-    <button type="submit" value="Send" class="btn btn-primary">
+    <button type="submit" value="Send" class="btn btn-primary"/>
 </form>
