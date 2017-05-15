@@ -17,6 +17,7 @@ We offer workshops on the following topics:
 - Running Retrospectives
 - Kanban System Design
 - Value Stream Mapping
+- Using JIRA
 
 ## Real, Professional Experience
 
