@@ -23,6 +23,24 @@ Dave now coaches organisations on how to improve the ways in which they deliver 
 - Sorenson Media
 - Specific Media
 
-In his spare time, Dave helps to organise the South Wales Agile Group, and has delivered a variety of talks and workshops at a number of well-known European conferences.  Dave is a member of the Agile Alliance, the BCS and the Scrum Alliance.
+In his spare time, Dave helps to organise the South Wales Agile Group, and has delivered a variety of talks and workshops at a number of well-known European conferences.  Dave is a member of the Scrum Alliance, Agile Alliance, and the BCS.
+
+<div class="row">
+  <div class="col-xs-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/assets/csm.png">
+      </div>
+  </div>
+  <div class="col-xs-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/assets/cspo.png">
+      </div>
+  </div>
+    <div class="col-xs-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/assets/csp.jpg">
+      </div>
+  </div>
+</div>
 
 <img src="/assets/csp.jpg" class="center-block"/>
