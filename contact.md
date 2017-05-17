@@ -4,6 +4,19 @@ permalink: contact/
 layout: page
 ---
 
+## Contact Details
+
+<address>
+  <strong>Sustainable Pace Ltd</strong><br/>
+  7 Brynderwen Close<br/>
+  Cardiff<br/>
+  CF23 6BR<br/>
+  United Kingdom<br/>
+  <strong>Telephone</strong>: <a href="tel:+447968441706">079 6844 1706</a>
+</address>
+
+## Contact Form
+
 <form method="POST" action="https://formspree.io/info@sustainablepace.co.uk">
   <div class="form-group">
     <label for="full_name">Name</label>
@@ -19,7 +32,7 @@ layout: page
     </div>
     <div class="form-group">
     <label for="msg">Your message</label>
-    <textarea class="form-control" name="msg" id="msg" rows="3"></textarea>
+    <textarea class="form-control" name="msg" id="msg" rows="5"></textarea>
     </div>
 
     <button type="submit" class="btn btn-primary">Send</button>

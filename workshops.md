@@ -4,9 +4,11 @@ permalink: workshops/
 layout: page
 ---
 
-Workshops are a cost-effective way for businesses to learn how to apply agile practices. By working closely with your organisation, Sustainable Pace can tailor workshop content to solve your **specific problems**, as well as providing a wider understanding of a topic.
+Our workshops are a cost-effective way for businesses to learn how to apply agile practices.
 
-## Our Workshop Topics
+By working closely with your organisation, Sustainable Pace can tailor workshop content to solve your specific problems.
+
+## Workshop Portfolio
 
 We offer workshops on the following topics:
 
@@ -19,7 +21,7 @@ We offer workshops on the following topics:
 - Value Stream Mapping
 - Using JIRA
 
-## Real, Professional Experience
+## Our Experience
 
 We have run our workshops across Europe for private organisations, as well as at the following conferences:
 
