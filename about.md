@@ -11,6 +11,8 @@ Formed in 2016, we provide Agile coaching and workshops to businesses in the UK.
 
 ### Dave Grant
 
+<a href="https://www.linkedin.com/in/davidjonathangrant/"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/seize_the_dave"><i class="fa fa-twitter"></i></a>
+
 Over the past {{ site.time | date: '%Y' | minus: '2000' }} years, Dave has worked in a number of different roles in the software industry including time spent as a Developer, Development Lead, Scrum Master and Product Owner.  This breadth of experience has helped Dave to gain a deep understanding of how software is delivered.
 
 Dave now coaches organisations on how to improve the ways in which they deliver software, with a focus on Agile and Lean/Kanban techniques.  Dave first encountered Agile ways of working around 2006 after reading a whitepaper about Scrum adoption at Yahoo! and has sought to increase his knowledge and experience ever since.  He has provided Agile coaching to the following organisations:
