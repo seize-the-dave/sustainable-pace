@@ -42,5 +42,3 @@ In his spare time, Dave helps to organise the South Wales Agile Group, and has d
       </div>
   </div>
 </div>
-
-<img src="/assets/csp.jpg" class="center-block"/>
