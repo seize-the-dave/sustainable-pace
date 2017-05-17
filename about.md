@@ -4,7 +4,7 @@ title: About Us
 permalink: /about-us/
 ---
 
-Formed in 2016, we provide Agile coaching and workshops to businesses in the UK.
+Founded in 2016, we provide Agile coaching and workshops to businesses in the UK.
 {: .lead}
 
 ## Who We Are
