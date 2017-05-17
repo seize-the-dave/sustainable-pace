@@ -1,10 +1,8 @@
 ---
-title: Contact
-permalink: contact/
+title: Contact Us
+permalink: contact-us/
 layout: page
 ---
-
-## Contact Details
 
 <address>
   <strong>Sustainable Pace Ltd</strong><br/>

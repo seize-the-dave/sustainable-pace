@@ -1,12 +1,11 @@
 ---
-title: Workshops
-permalink: workshops/
+title: Our Workshops
+permalink: our-workshops/
 layout: page
 ---
 
-Our workshops are a cost-effective way for businesses to learn how to apply agile practices.
-
-By working closely with your organisation, Sustainable Pace can tailor workshop content to solve your specific problems.
+Our workshops are a cost-effective way for your business to learn how to apply Agile practices.
+{: .lead}
 
 ## Workshop Portfolio
 
@@ -14,8 +13,8 @@ We offer workshops on the following topics:
 
 - Introduction to Scrum
 - Introduction to Kanban
-- Working with User Stories, including Story Mapping and Splitting Techniques
-- Backlog Prioritisation Techniques, including Cost of Delay and Kano Analysis
+- [Working with User Stories](/our-workshops/working-with-user-stories.html)
+- [Mastering the Product Backlog](/our-workshops/mastering-the-product-backlog.html)
 - Running Retrospectives
 - Kanban System Design
 - Value Stream Mapping
