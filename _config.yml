@@ -26,6 +26,7 @@ github_username:  seize-the-dave
 social:
   links:
     - https://www.linkedin.com/company-beta/11064321/
+google_analytics: "UA-222968-9"
 
 # Build settings
 markdown: kramdown
