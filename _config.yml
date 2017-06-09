@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Sustainable Pace: Agile Coaching and Training"
+title: "Sustainable Pace"
 email: info@sustainablepace.co.uk
 description: "Sustainable Pace provides expert Agile coaching and training services to small and medium-sized businesses in South Wales."
 baseurl: "" # the subpath of your site, e.g. /blog
