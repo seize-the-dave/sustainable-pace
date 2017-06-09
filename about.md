@@ -4,7 +4,7 @@ title: About Us
 permalink: /about-us/
 ---
 
-Founded in 2016, we provide Agile coaching and workshops to businesses in the UK.
+Sustainable Pace is a lean and agile consultancy offering agile coaching, training and business transformation services in the UK.
 {: .lead}
 
 ## Who We Are
