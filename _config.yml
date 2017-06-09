@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sustainable Pace: Lean & Agile Coaching and Training
+title: "Sustainable Pace: Lean &amp; Agile Coaching and Training"
 email: info@sustainablepace.co.uk
-description: Sustainable Pace provides expert Agile coaching and training services to small and medium-sized businesses in South Wales.
+description: "Sustainable Pace provides expert Agile coaching and training services to small and medium-sized businesses in South Wales."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sustainablepace.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seize_the_dave
