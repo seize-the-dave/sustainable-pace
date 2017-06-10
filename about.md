@@ -4,7 +4,7 @@ title: About Us
 permalink: /about-us/
 ---
 
-Sustainable Pace is a lean and agile consultancy offering agile coaching, training and business transformation services in the UK.
+Sustainable Pace is an agile consultancy offering agile coaching, training and business transformation services in Cardiff.
 {: .lead}
 
 ## Who We Are
