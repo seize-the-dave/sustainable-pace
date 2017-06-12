@@ -104,11 +104,11 @@ DEPENDENCIES
   jekyll-sitemap (= 1.1.1)
   jemoji (= 0.8.0)
   minima (= 2.1.1)
-  s3_website
+  s3_website (= 3.1.0)
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.4.0p0
+   ruby 2.2.7p470
 
 BUNDLED WITH
-   1.14.6
+   1.15.1

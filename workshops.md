@@ -1,6 +1,6 @@
 ---
-title: Our Workshops
-permalink: our-workshops/
+title: Agile Training
+permalink: services/agile-training
 layout: page
 ---
 

@@ -33,5 +33,5 @@ layout: page
     <textarea class="form-control" name="msg" id="msg" rows="5"></textarea>
     </div>
 
-    <button type="submit" class="btn btn-primary">Send</button>
+    <button type="submit" class="btn btn-primary">Send Message</button>
 </form>

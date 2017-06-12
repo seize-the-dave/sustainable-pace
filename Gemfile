@@ -30,4 +30,4 @@ end
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Deployment
-gem "s3_website"
+gem "s3_website", "3.1.0"

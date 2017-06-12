@@ -1,14 +1,23 @@
 /* Footer styles
 -------------------------------------------------- */
-.footer {
+/*.footer {
   background-color: #f5f5f5;
-}
+}*/
 
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
+.jumbotron {
+  padding-top: 50px;
+}
+.jumbotron .container {
 
-body > .container {
+}
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+/*body > .container {
   padding: 60px 15px 10px;
 }
 .container .text-muted {
@@ -18,4 +27,4 @@ body > .container {
 .footer > .container {
   padding-right: 15px;
   padding-left: 15px;
-}
+}*/
