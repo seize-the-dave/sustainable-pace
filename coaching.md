@@ -1,6 +1,6 @@
 ---
 title: Agile Coaching
-permalink: services/agile-coaching
+permalink: /services/agile-coaching/
 layout: page
 ---
 

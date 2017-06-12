@@ -1,6 +1,6 @@
 ---
 title: Agile Training
-permalink: services/agile-training
+permalink: /services/agile-training/
 layout: page
 ---
 
